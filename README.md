@@ -6,7 +6,6 @@
 https://t.me/EgorichYa
 
 ## Обучение
-[Аналитик Данных.pdf](https://github.com/Egorichya/EgorYatsenko/files/11867434/default.pdf)
+![image](https://github.com/Egorichya/EgorYatsenko/assets/118539754/37aac791-77a9-4af6-9d0e-58a8ab1253f5)
 
-[SQL Mathshub.pdf](https://github.com/Egorichya/EgorYatsenko/files/11867437/SQL.Mathshub.pdf)
 
